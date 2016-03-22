@@ -1,1 +1,2 @@
-git is free
+git is not free
+git is bad
